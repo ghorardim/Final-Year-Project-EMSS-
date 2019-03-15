@@ -1,0 +1,42 @@
+.Location {
+  width: 100px;
+}
+@media only screen and (max-width: 800px) {
+    /* For mobile phones: */
+  .container{
+        left: 5%;
+        width: 100%;
+    }
+}
+.Search {
+    height: 60px;
+    font-size: 20px;
+}
+@media only screen and (max-width: 800px) {
+    /* For mobile phones: */
+  .Search{
+    height: 50px;
+    font-size: 15px;
+    }
+}
+.Doctor {
+  width: 600px;
+}
+@media only screen and (max-width: 800px) {
+    /* For mobile phones: */
+  .Doctor{
+
+        width: 330px;
+    }
+}
+.Button {
+  height: 38px;
+  margin-top: 2px;
+}
+.Scroll-bar {
+  boder: 2x soild black;
+  max-width: 250px;
+  max-height: 20px;
+  overflow: auto;
+
+}

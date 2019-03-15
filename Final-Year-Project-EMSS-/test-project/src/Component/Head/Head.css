@@ -1,0 +1,16 @@
+.text-container {
+ margin-top: 90px;
+ text-align: center;
+ font-family: 'Roboto', sans-serif;
+ color: white;
+ font-size: 4em;
+ text-shadow: 10px 10px 4px rgba(0, 0, 0, 0.1);
+}
+
+.text-container h1 {
+ font-family: 'Roboto', sans-serif;
+ color: white;
+ font-size: 300px;
+
+ text-transform: uppercase;
+}

@@ -1,0 +1,23 @@
+.Register-box {
+  width: 600px;
+  height: 420px;
+  background: rgba(0,0,0,0.5);
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform:translate(-50%,-50%);
+  box-sizing: border-box;
+  padding: 70p;
+  alignment-baseline: central;
+}
+
+.Form {
+  margin-top: 50px;
+}
+input[type=text] {
+  color: black;
+}
+input[type=password] {
+  color: black;
+}
